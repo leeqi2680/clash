@@ -1,0 +1,8 @@
+DOMAIN-SUFFIX,tailscale.com
+DOMAIN-SUFFIX,ts.net
+DOMAIN-SUFFIX,tailscale.io
+DOMAIN,login.tailscale.com
+DOMAIN,controlplane.tailscale.com
+DOMAIN,log.tailscale.com
+DOMAIN,stun.tailscale.com
+DOMAIN-KEYWORD,derp
