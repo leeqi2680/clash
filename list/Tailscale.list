@@ -7,3 +7,11 @@ DOMAIN,controlplane.tailscale.com
 DOMAIN,log.tailscale.com
 DOMAIN,stun.tailscale.com
 DOMAIN-KEYWORD,derp
+DOMAIN-KEYWORD,lutube
+DOMAIN-KEYWORD,api-aws
+DOMAIN-KEYWORD,imz
+DOMAIN-SUFFIX,lutube.cc
+DOMAIN-SUFFIX,pwc-aws.bdddz.shop
+DOMAIN-SUFFIX,api-aws.zysuper.online
+DOMAIN-SUFFIX,imz.tyshty.com
+DOMAIN-SUFFIX,hanimeone.me
