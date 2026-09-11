@@ -5,3 +5,9 @@ DOMAIN-SUFFIX,kali.download
 DOMAIN-SUFFIX,byteoversea.net
 DOMAIN-SUFFIX,bytefcdn-oversea.com
 DOMAIN-SUFFIX,bytedance.map.fastly.net
+DOMAIN,guzzoni.apple.com
+DOMAIN-SUFFIX,smoot.apple.com
+DOMAIN,apple-relay.apple.com
+DOMAIN,apple-relay.cloudflare.com
+DOMAIN,apple-relay.fastly-edge.com
+DOMAIN,cp4.cloudflare.com
