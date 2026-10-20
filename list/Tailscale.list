@@ -6,3 +6,6 @@ DOMAIN,login.tailscale.com
 DOMAIN,controlplane.tailscale.com
 DOMAIN,log.tailscale.com
 DOMAIN,stun.tailscale.com
+DOMAIN,shisha.gongxun.info
+DOMAIN,pickleball.yiqcsyqk.online
+DOMAIN-KEYWORD,web-aws
